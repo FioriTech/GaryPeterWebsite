@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head>
@@ -7,22 +6,29 @@
 <link rel="pingback" href="http://garypeter.com/xmlrpc.php" />
 <link href="../css_files/common1.css" type="text/css" rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=Raleway|Roboto" rel="stylesheet">
-<title>Gary Peter Group</title>
+<title>Free A1C Now test: World Diabetic Day - Gary Peter Group</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v5.9.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Gary Peter Group is a USA based private equity firm. We are pioneer in investment sector as we follow ethical and non-corrupt practices for greater good of overall startup community."/>
-<link rel="canonical" href="http://garypeter.com/" />
+<meta name="description" content="World Diabetic Day On November 14, 2015 ‘Plainsboro, North and South Brunswick Rotary club’ rolled out a great community service project ‘Free A1C .."/>
+<link rel="canonical" href="http://garypeter.com/free-a1c-now-test-world-diabetic-day/" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Gary Peter Group" />
-<meta property="og:description" content="Gary Peter Group is a USA based private equity firm. We are pioneer in investment sector as we follow ethical and non-corrupt practices for greater good of overall startup community." />
-<meta property="og:url" content="http://garypeter.com/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Free A1C Now test: World Diabetic Day - Gary Peter Group" />
+<meta property="og:description" content="World Diabetic Day On November 14, 2015 ‘Plainsboro, North and South Brunswick Rotary club’ rolled out a great community service project ‘Free A1C .." />
+<meta property="og:url" content="http://garypeter.com/free-a1c-now-test-world-diabetic-day/" />
 <meta property="og:site_name" content="Gary Peter Group" />
+<meta property="article:section" content="Humanitarian Work" />
+<meta property="article:published_time" content="2016-04-01T20:06:48-05:00" />
+<meta property="article:modified_time" content="2016-05-18T11:14:21-05:00" />
+<meta property="og:updated_time" content="2016-05-18T11:14:21-05:00" />
+<meta property="og:image" content="http://garypeter.com/wp-content/uploads/2016/04/A1C-Banner-300x169.jpg" />
+<meta property="og:image" content="http://garypeter.com/wp-content/uploads/2016/04/A1C-Image-1-300x175.jpeg" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="Gary Peter Group is a USA based private equity firm. We are pioneer in investment sector as we follow ethical and non-corrupt practices for greater good of overall startup community." />
-<meta name="twitter:title" content="Gary Peter Group" />
+<meta name="twitter:description" content="World Diabetic Day On November 14, 2015 ‘Plainsboro, North and South Brunswick Rotary club’ rolled out a great community service project ‘Free A1C .." />
+<meta name="twitter:title" content="Free A1C Now test: World Diabetic Day - Gary Peter Group" />
+<meta name="twitter:image" content="http://garypeter.com/wp-content/uploads/2016/04/A1C-Banner-300x169.jpg" />
 <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/garypeter.com\/","name":"Gary Peter Group","potentialAction":{"@type":"SearchAction","target":"http:\/\/garypeter.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/garypeter.com\/","sameAs":[],"@id":"#organization","name":"Gary Peter Group, LLC","logo":""}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/garypeter.com\/free-a1c-now-test-world-diabetic-day\/","sameAs":[],"@id":"#organization","name":"Gary Peter Group, LLC","logo":""}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//platform-api.sharethis.com' />
@@ -31,11 +37,12 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Gary Peter Group &raquo; Feed" href="http://garypeter.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Gary Peter Group &raquo; Comments Feed" href="http://garypeter.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gary Peter Group &raquo; Free A1C Now test: World Diabetic Day Comments Feed" href="http://garypeter.com/free-a1c-now-test-world-diabetic-day/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/garypeter.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
-		
+</style>
 <link rel='stylesheet' id='font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=1.11' type='text/css' media='all' />
 <link rel='stylesheet' id='the-social-links-style-css'  href='http://garypeter.com/wp-content/plugins/the-social-links/assets/css/style.css?ver=4.9.3' type='text/css' media='all' />
 <link rel='stylesheet' id='freesiaempire-style-css'  href='http://garypeter.com/wp-content/themes/freesia-empire/style.css?ver=4.9.3' type='text/css' media='all' />
@@ -58,26 +65,27 @@
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://garypeter.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://garypeter.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.9.3" />
-<link rel='shortlink' href='http://garypeter.com/' />
-<link rel="alternate" type="application/json+oembed" href="http://garypeter.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgarypeter.com%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://garypeter.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgarypeter.com%2F&#038;format=xml" />
+<link rel='shortlink' href='http://garypeter.com/?p=65' />
+<link rel="alternate" type="application/json+oembed" href="http://garypeter.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgarypeter.com%2Ffree-a1c-now-test-world-diabetic-day%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://garypeter.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgarypeter.com%2Ffree-a1c-now-test-world-diabetic-day%2F&#038;format=xml" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	</head>
-<body class="home page-template-default page page-id-140 custom-background no-sidebar-layout small_image_blog  boxed-layout">
+<body class="post-template-default single single-post postid-65 single-format-standard custom-background no-sidebar-layout small_image_blog  boxed-layout">
+
 <div class="image">
 <div>
 <h2 class="heading"><a href="aboutus.html">Gary Peter Group</a></h2>
 <div class="firstulist">
 <a href="#" class="dropbtn">About</a>
-<a href="#" class=" active dropbtn">Investment Approach</a>
-<a href="#" class="dropbtn">Humanitarian Work</a>
+<a href="#" class="dropbtn">Investment Approach</a>
+<a href="#" class="active dropbtn">Humanitarian Work</a>
 <a href="#" class="dropbtn">Contact Us</a>
 </div>
 </div>
 <br />
 <br />
-<div class="strategy">
-<p class="invstrategy"><b>About US</b></p>
+<div class="investment`">
+<p class="invapproach"><b>Free A1C Now Test</b></p>
 </div>
 </div>
 <br />
@@ -85,37 +93,42 @@
 <br />
 <br />
 <br />
+
 <div id="page" class="hfeed site">
 <div id="content">
 <div class="container clearfix">
-	<div id="main">
-			<div class="entry-content">
-			<h2>Gary Peter Group</h2>
-<p> Gary Peter Group is a USA based private equity firm. We are pioneer in investment sector as we follow ethical and non-corrupt practices for greater good of overall startup community.<br />
-<br />
-Our investments are primarily focused towards the following industries:</p>
-<ul>
-<li>New Information technology</li>
-<li>Consulting Businesses</li>
-</ul>
-<p>Gary Peter Group firmly believes in investing in companies which has strong vision in addition to robust growth potential with long term sustainability. We invest in companies which are set to be market leaders of tomorrow.</p>
-<p>Our team of experienced industry professionals specializes in investing in new information technology startups and consulting businesses. The investment made by us aims to maximize the startups success. Gary Peter Group’s strategic partnership with management team ensures long term growth through a combination of strategic capital and operational insight.<br />
-<br />
-Gary Peter Group is the perfect choice for your investment needs because:</p>
-<ul>
-<li>We have experience of the industry spanning over 15 years.</li>
-<li>Our expertise in Information Technology and Consulting business is unparalleled.</li>
-<li>Gary Peter Group understands that starting from scratch is difficult. Our management team lends unconditional support and we assist you at every stage of the journey.</li>
-</ul>
+	<main id="main" class="site-main clearfix">
+							<article class="post-format format- post-65 post type-post status-publish format-standard hentry category-humanitarian clearfix" id="post-65">
+								<header class="entry-header">
+									<div class="entry-meta">
+												<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
+						gpcadmin </a></span> <span class="posted-on">Date  :<a title="8:06 pm" href="http://garypeter.com/free-a1c-now-test-world-diabetic-day/">
+						April 1, 2016 </a></span>
+											</div> <!-- .entry-meta -->
+								</header> <!-- .entry-header -->
+				<div class="entry-content">
+				<p>On November 14, 2015 &#8216;Plainsboro, North and South Brunswick Rotary club&#8217; rolled out a<br />
+great community service project <strong>‘Free A1C Now test – Health Campaign’</strong> in collaboration with Gary Peter Group.<br />
+<img class="wp-image-347 aligncenter" src="http://garypeter.com/wp-content/uploads/2016/04/A1C-Banner-300x169.jpg" alt="A1C Banner" width="500" height="280" srcset="http://garypeter.com/wp-content/uploads/2016/04/A1C-Banner-300x169.jpg 300w, http://garypeter.com/wp-content/uploads/2016/04/A1C-Banner-768x432.jpg 768w, http://garypeter.com/wp-content/uploads/2016/04/A1C-Banner-1024x576.jpg 1024w, http://garypeter.com/wp-content/uploads/2016/04/A1C-Banner.jpg 1280w" sizes="(max-width: 500px) 100vw, 500px" /></p>
 <p>&nbsp;</p>
-<h3>Our Goal</h3>
-<p>Gary Peter Group’s primary objective is to nourish the ever growing startup culture. We believe in lending financial and moral support to deserving entrepreneurs.</p>
-<p>Our goal is to ensure that the startup maintains its growth momentum and benefit the society through innovation.</p>
-		</div> <!-- entry-content clearfix-->
-		
+<p>This event has been one of our most enjoyable and valuable service project. Together we served remarkably, more than 110 people from 9 AM – 3 PM with their A1C reading and educated them about how best they can keep control the blood sugar level in future. The event was very well received by all, as the actual event was scheduled till 1 PM, due to overwhelming response the entire team patiently kept serving the people till 3 PM.<br />
+<br />
+<img class=" wp-image-348 aligncenter" src="http://garypeter.com/wp-content/uploads/2016/04/A1C-Image-1-300x175.jpeg" alt="A1C Image (1)" width="500" height="280" /><br />
+<br />
+We really appreciate the dedication and commitment of our team. Our sincere thanks to Amita Avadhani, Varsha Singh, Srini Gattu, Mr. Varma, Christine Cuoco, and Silpa Chinta for performing and helping with the A1C Now tests. Mr. Mahesh, Mrs. Renu Advani were very helpful in diabetes informational goodie bags and waiver form format and other time to time help during the event. Our special thanks to Durga Temple board of trustees for providing event space in temple with furniture and other amenities including special pooja and prasad to all our group members. Gary Peter Group not only sponsored the event medical equipment &amp; all other required material, but also lead the effort from initiation to execution successfully. Thanks to all club members and volunteers again for their time, energy and enthusiasm.</p>
+				</div> <!-- .end entry-content -->
+									<footer class="entry-footer"> <span class="cat-links">
+						Category : <a href="humanitarianwork.html" rel="category tag">Humanitarian Work</a> </span> <!-- .cat-links -->
+											</footer> <!-- .entry-meta -->
+								</article>
+		</main> <!-- #main -->
+			<ul class="default-wp-page clearfix">
+			<li class="previous">  </li>
+			<li class="next"> <a href="ourphilosophy.html" rel="next">Our Philosophy <span class="meta-nav">&rarr;</span></a> </li>
+		</ul>
+			
 <div id="comments" class="comments-area">
-			</div> <!-- .comments-area -->		</div> <!-- #main -->
-	  </div>
+			</div> <!-- .comments-area -->  </div>
 <!-- end .container -->
 </div>
 <!-- end #content -->
