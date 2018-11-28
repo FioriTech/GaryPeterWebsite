@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8" />
-    <link href="css_files/common1.css" type="text/css" rel="stylesheet" />
+    <link href="css_files/common.css" type="text/css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Raleway|Roboto" rel="stylesheet">
     <title>Gary Peter Group</title>
     <link rel='stylesheet' id='freesiaempire-style-css' href='http://garypeter.com/wp-content/themes/freesia-empire/style.css?ver=4.9.3' type='text/css' media='all' />
