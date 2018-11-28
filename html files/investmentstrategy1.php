@@ -12,17 +12,7 @@
 	</head>
 <body class="home page-template-default page page-id-140 custom-background no-sidebar-layout small_image_blog  boxed-layout">
 <div class="image">
-<div class="menuitems">
-<h2 class="heading"><a href="aboutus.php">Gary Peter Group</a></h2>
-<div class="firstulist">
-<a href="aboutus.php" class="dropbtn">About</a>
-<a href="investmentapproach.php" class="active dropbtn">Investment Approach</a>
-<a href="humanitarianwork.php" class="dropbtn">Humanitarian Work</a>
-<a href="contactus.php" class="dropbtn">Contact Us</a>
-</div>
-</div>
-<br />
-<br />
+<?php include 'common files/menu.php' ?>
 <div class="strategy">
 <p class="invstrategy"><b>Investment Strategy</b></p>
 </div>
@@ -58,8 +48,7 @@
 											</footer> <!-- .entry-meta -->
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
-			<li class="previous"> <a href="startupfund.php" rel="prev"><span class="meta-nav">&larr;</span> Startup Fund</a> </li>
-			<li class="next">  </li>
+			<li class="next"> <a href="startupfund.php" rel="prev"><span class="meta-nav"></span> Startup Fund&rarr;</a> </li>
 		</ul>
 			
 <div id="comments" class="comments-area">
@@ -68,8 +57,6 @@
 </div>
 <!-- end #content -->
 </div> <!-- end #page -->
-<footer>
-<p><b>Copyrights ©2016-17 by Gary Peter Group</b></p>
-</footer>
+<?php include 'common files/footer.php' ?>
 </body>
 </html>
