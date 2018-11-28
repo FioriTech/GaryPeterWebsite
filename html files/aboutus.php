@@ -13,7 +13,7 @@
 <body class="home page-template-default page page-id-140 custom-background no-sidebar-layout small_image_blog  boxed-layout">
 <div class="image">
 <div class="menuitems">
-<h2 class="heading"><a href="aboutus.html">Gary Peter Group</a></h2>
+<h2 class="heading"><a href="aboutus.php">Gary Peter Group</a></h2>
 <div class="firstulist">
 <a href="aboutus.php" class="active dropbtn">About</a>
 <a href="investmentapproach.php" class="dropbtn">Investment Approach</a>

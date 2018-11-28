@@ -13,7 +13,7 @@
 <body class="home page-template-default page page-id-140 custom-background no-sidebar-layout small_image_blog  boxed-layout">
 <div class="image">
 <div class="menuitems">
-<h2 class="heading"><a href="aboutus.html">Gary Peter Group</a></h2>
+<h2 class="heading"><a href="aboutus.php">Gary Peter Group</a></h2>
 <div class="firstulist">
 <a href="aboutus.php" class="dropbtn">About</a>
 <a href="investmentapproach.php" class="active dropbtn">Investment Approach</a>
@@ -37,14 +37,6 @@
 <div id="content">
 <div class="container clearfix">
 	<main id="main" class="site-main clearfix">
-							<article class="post-format format- post-382 post type-post status-publish format-standard hentry category-investment clearfix" id="post-382">
-								<header class="entry-header">
-									<div class="entry-meta">
-												<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
-						gpcadmin </a></span> <span class="posted-on">Date  :<a title="4:21 pm" href="http://garypeter.com/real-estate-fund/">
-						April 20, 2016 </a></span>
-											</div> <!-- .entry-meta -->
-								</header> <!-- .entry-header -->
 				<div class="entry-content">
 				<p>The Real Estate industry is as old as human civilization. The recorded earliest forms of real estate properties were man-made caves and tree houses. In present 21st century the real estate sector is blooming with glitzy apartments, sky-high office buildings, villas, row houses etc.<br />
 For ages the real estate sector attracted investors as it was safe and financial meltdowns had little impact on it. Today the real estate industry is faced with several troubles such as:<br />

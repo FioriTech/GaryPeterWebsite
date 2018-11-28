@@ -14,7 +14,7 @@
 
 <div class="image">
 <div class="menuitems">
-<h2 class="heading"><a href="aboutus.html">Gary Peter Group</a></h2>
+<h2 class="heading"><a href="aboutus.php">Gary Peter Group</a></h2>
 <div class="firstulist">
 <a href="aboutus.php" class="dropbtn">About</a>
 <a href="investmentapproach.php" class="dropbtn">Investment Approach</a>
@@ -38,14 +38,9 @@
 <div id="content">
 <div class="container clearfix">
 	<main id="main" class="site-main clearfix">
-			<article class="post-format format- post-59 post type-post status-publish format-standard hentry category-humanitarian clearfix" id="post-59">
 			<header class="entry-header">
 			<h2 class="entry-title"> <a href="ourphilosophy.php" title="Our Philosophy"> Our Philosophy </a> </h2> <!-- end.entry-title -->
 					<div class="entry-meta">
-						<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
-						gpcadmin </a></span> 
-			<span class="posted-on">Date  :<a title="7:57 pm" href="http://garypeter.com/humanitarian-work/"> April 12, 2016 </a></span>
-									</div> <!-- end .entry-meta -->
 				</header> <!-- end .entry-header -->
 		<div class="entry-content">
 			<p>The Gary Peter Group’s philosophy is mutual growth by helping those in need. &nbsp; What inspires us to keep moving? Gary Peter Group consisting of highly motivated and talented individuals draws inspiration from everything. We get inspired by nature, animals and even with individuals possessing never say give-up attitude. We believe no work is impossible for a human if they have enough determination and will&hellip; </p>
@@ -56,14 +51,9 @@
 						<a class="more-link" title="Our Philosophy" href="ourphilosophy.php">
 			Read More</a>
 					</footer> <!-- .entry-meta -->
-				</article>	<article class="post-format format- post-65 post type-post status-publish format-standard hentry category-humanitarian clearfix" id="post-65">
 			<header class="entry-header">
 			<h2 class="entry-title"> <a href="A1Ctest.php" title="Free A1C Now test: World Diabetic Day"> Free A1C Now test: World Diabetic Day </a> </h2> <!-- end.entry-title -->
 					<div class="entry-meta">
-						<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
-						gpcadmin </a></span> 
-			<span class="posted-on">Date  :<a title="8:06 pm" href="http://garypeter.com/free-a1c-now-test-world-diabetic-day/"> April 1, 2016 </a></span>
-									</div> <!-- end .entry-meta -->
 				</header> <!-- end .entry-header -->
 		<div class="entry-content">
 			<p>On November 14, 2015 &#8216;Plainsboro, North and South Brunswick Rotary club&#8217; rolled out a great community service project ‘Free A1C Now test – Health Campaign’ in collaboration with Gary Peter Group. &nbsp; This event has been one of our most enjoyable and valuable service project. Together we served remarkably, more than 110 people from 9 AM – 3 PM with their A1C reading and educated&hellip; </p>
@@ -74,7 +64,7 @@
 						<a class="more-link" title="Free A1C Now test: World Diabetic Day" href="A1Ctest.php">
 			Read More</a>
 					</footer> <!-- .entry-meta -->
-				</article>	</main> <!-- #main -->
+</main> <!-- #main -->
 	  </div>
 <!-- end .container -->
 </div>

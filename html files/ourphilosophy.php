@@ -14,7 +14,7 @@
 
 <div class="image">
 <div class="menuitems">
-<h2 class="heading"><a href="aboutus.html">Gary Peter Group</a></h2>
+<h2 class="heading"><a href="aboutus.php">Gary Peter Group</a></h2>
 <div class="firstulist">
 <a href="aboutus.php" class="dropbtn">About</a>
 <a href="investmentapproach.php" class="dropbtn">Investment Approach</a>
@@ -38,13 +38,7 @@
 <div id="content">
 <div class="container clearfix">
 	<main id="main" class="site-main clearfix">
-							<article class="post-format format- post-59 post type-post status-publish format-standard hentry category-humanitarian clearfix" id="post-59">
 								<header class="entry-header">
-									<div class="entry-meta">
-												<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
-						gpcadmin </a></span> <span class="posted-on">Date  :<a title="7:57 pm" href="http://garypeter.com/humanitarian-work/">
-						April 12, 2016 </a></span>
-											</div> <!-- .entry-meta -->
 								</header> <!-- .entry-header -->
 				<div class="entry-content">
 				<p>The Gary Peter Group’s philosophy is mutual growth by helping those in need.</p>
@@ -81,7 +75,6 @@
 									<footer class="entry-footer"> <span class="cat-links">
 						Category : <a href="humanitarianwork.php" rel="category tag">Humanitarian Work</a> </span> <!-- .cat-links -->
 											</footer> <!-- .entry-meta -->
-								</article>
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
 			<li class="previous"> <a href="A1Ctest.php" rel="prev"><span class="meta-nav">&larr;</span> Free A1C Now test: World Diabetic Day</a> </li>

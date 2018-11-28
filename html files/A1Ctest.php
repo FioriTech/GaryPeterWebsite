@@ -13,7 +13,7 @@
 
 <div class="image">
 <div class="menuitems">
-<h2 class="heading"><a href="aboutus.html">Gary Peter Group</a></h2>
+<h2 class="heading"><a href="aboutus.php">Gary Peter Group</a></h2>
 <div class="firstulist">
 <a href="aboutus.php" class="dropbtn">About</a>
 <a href="investmentapproach.php" class="dropbtn">Investment Approach</a>
@@ -37,14 +37,6 @@
 <div id="content">
 <div class="container clearfix">
 	<main id="main" class="site-main clearfix">
-							<article class="post-format format- post-65 post type-post status-publish format-standard hentry category-humanitarian clearfix" id="post-65">
-								<header class="entry-header">
-									<div class="entry-meta">
-												<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
-						gpcadmin </a></span> <span class="posted-on">Date  :<a title="8:06 pm" href="http://garypeter.com/free-a1c-now-test-world-diabetic-day/">
-						April 1, 2016 </a></span>
-											</div> <!-- .entry-meta -->
-								</header> <!-- .entry-header -->
 				<div class="entry-content">
 				<p>On November 14, 2015 &#8216;Plainsboro, North and South Brunswick Rotary club&#8217; rolled out a<br />
 great community service project <strong>‘Free A1C Now test – Health Campaign’</strong> in collaboration with Gary Peter Group.<br />
@@ -59,7 +51,6 @@ We really appreciate the dedication and commitment of our team. Our sincere than
 									<footer class="entry-footer"> <span class="cat-links">
 						Category : <a href="humanitarianwork.php" rel="category tag">Humanitarian Work</a> </span> <!-- .cat-links -->
 											</footer> <!-- .entry-meta -->
-								</article>
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
 			<li class="previous">  </li>

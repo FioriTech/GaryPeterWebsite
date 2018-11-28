@@ -13,7 +13,7 @@
 <body class="home page-template-default page page-id-140 custom-background no-sidebar-layout small_image_blog  boxed-layout">
 <div class="image">
 <div class="menuitems">
-<h2 class="heading"><a href="aboutus.html">Gary Peter Group</a></h2>
+<h2 class="heading"><a href="aboutus.php">Gary Peter Group</a></h2>
 <div class="firstulist">
 <a href="aboutus.php" class="dropbtn">About</a>
 <a href="investmentapproach.php" class="active dropbtn">Investment Approach</a>
@@ -37,14 +37,6 @@
 <div id="content">
 <div class="container clearfix">
 	<main id="main" class="site-main clearfix">
-							<article class="post-format format- post-190 post type-post status-publish format-standard hentry category-investment clearfix" id="post-190">
-								<header class="entry-header">
-									<div class="entry-meta">
-												<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
-						gpcadmin </a></span> <span class="posted-on">Date  :<a title="2:51 pm" href="http://garypeter.com/investment-approach-new-information-technology/">
-						May 6, 2016 </a></span>
-											</div> <!-- .entry-meta -->
-								</header> <!-- .entry-header -->
 				<div class="entry-content">
 				<p>A seed becomes a plant only if it receives ambient conditions in the form of soil, water,<br />
 and the sunshine. Similarly, great ideas take the form of a startup but these startups will flourish only if it receives sufficient capital and guidance.<br />
@@ -66,7 +58,6 @@ Gary Peter Group invites applications from all entrepreneurs.</p>
 									<footer class="entry-footer"> <span class="cat-links">
 						Category : <a href="investmentapproach.php" rel="category tag">Investment Approach</a> </span> <!-- .cat-links -->
 											</footer> <!-- .entry-meta -->
-								</article>
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
 			<li class="previous"> <a href="realestate.php" rel="prev"><span class="meta-nav">&larr;</span> Real Estate Fund</a> </li>
