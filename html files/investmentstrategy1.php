@@ -58,8 +58,8 @@
 											</footer> <!-- .entry-meta -->
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
-			<li class="next"> <a href="startupfund.php" rel="next"><span class="meta-nav"></span> Startup Fund&rarr;</a> </li>
-			
+			<li class="previous"> <a href="startupfund.php" rel="prev"><span class="meta-nav">&larr;</span> Startup Fund</a> </li>
+			<li class="next">  </li>
 		</ul>
 			
 <div id="comments" class="comments-area">

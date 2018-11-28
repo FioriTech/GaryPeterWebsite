@@ -77,8 +77,8 @@
 											</footer> <!-- .entry-meta -->
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
-			<li class="previous"> <a href="realestate.php" rel="prev"><span class="meta-nav">&larr;</span>Real Estate Fund </a> </li>
-			<li class="next"> <a href="A1Ctest.php" rel="next">Free A1C Now test: World Diabetic Day <span class="meta-nav">&rarr;</span></a> </li>
+			<li class="previous"> <a href="A1Ctest.php" rel="prev"><span class="meta-nav">&larr;</span> Free A1C Now test: World Diabetic Day</a> </li>
+			<li class="next"> <a href="realestate.php" rel="next">Real Estate Fund <span class="meta-nav">&rarr;</span></a> </li>
 		</ul>
 			
 <div id="comments" class="comments-area">

@@ -61,8 +61,8 @@ Submit your application today and we will get in touch with you!</p>
 								</article>
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
-			<li class="previous"> <a href="startupfund.php" rel="prev"><span class="meta-nav">&larr;</span> Startup Fund</a> </li>
-			<li class="next"> <a href="ourphilosophy.php" rel="next">Our Philosophy <span class="meta-nav">&rarr;</span></a> </li>
+			<li class="previous"> <a href="ourphilosophy.php" rel="prev"><span class="meta-nav">&larr;</span> Our Philosophy</a> </li>
+			<li class="next"> <a href="startupfund.php" rel="next">Startup Fund <span class="meta-nav">&rarr;</span></a> </li>
 		</ul>
 			
 <div id="comments" class="comments-area">

@@ -54,25 +54,35 @@
 					</footer> <!-- .entry-meta -->
 			<header class="entry-header">
 			<h2 class="entry-title"> <a href="startupfund.php" title="Startup Fund"> Startup Fund </a> </h2> <!-- end.entry-title -->
+					<div class="entry-meta">
+						<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
+						gpcadmin </a></span> 
+			<span class="posted-on">Date  :<a title="2:51 pm" href="http://garypeter.com/investment-approach-new-information-technology/"> May 6, 2016 </a></span>
+									</div> <!-- end .entry-meta -->
 				</header> <!-- end .entry-header -->
 		<div class="entry-content">
 			<p>A seed becomes a plant only if it receives ambient conditions in the form of soil, water, and the sunshine. Similarly, great ideas take the form of a startup but these startups will flourish only if it receives sufficient capital and guidance. The startup industry has reached an unimaginable scale within a matter of few years. Today, entrepreneurs are more knowledgeable and determined to solve&hellip; </p>
 		</div> <!-- end .entry-content -->
 				<footer class="entry-footer">
 						<span class="cat-links">
-			Category : <a href="investmentapproach.php" rel="category tag">Investment Approach</a></span> <!-- end .cat-links -->
+			Category : <a href="investmentapproach.php" rel="category tag">Investment Approach</a>			</span> <!-- end .cat-links -->
 						<a class="more-link" title="Startup Fund" href="startupfund.php">
 			Read More</a>
 					</footer> <!-- .entry-meta -->
 			<header class="entry-header">
 			<h2 class="entry-title"> <a href="realestate.php" title="Real Estate Fund"> Real Estate Fund </a> </h2> <!-- end.entry-title -->
+					<div class="entry-meta">
+						<span class="author vcard">Author :<a href="http://garypeter.com/author/gpcadmin/" title="gpcadmin">
+						gpcadmin </a></span> 
+			<span class="posted-on">Date  :<a title="4:21 pm" href="http://garypeter.com/real-estate-fund/"> April 20, 2016 </a></span>
+									</div> <!-- end .entry-meta -->
 				</header> <!-- end .entry-header -->
 		<div class="entry-content">
 			<p>The Real Estate industry is as old as human civilization. The recorded earliest forms of real estate properties were man-made caves and tree houses. In present 21st century the real estate sector is blooming with glitzy apartments, sky-high office buildings, villas, row houses etc. For ages the real estate sector attracted investors as it was safe and financial meltdowns had little impact on it. Today&hellip; </p>
 		</div> <!-- end .entry-content -->
 				<footer class="entry-footer">
 						<span class="cat-links">
-			Category : <a href="investmentapproach.php" rel="category tag">Investment Approach</a></span> <!-- end .cat-links -->
+			Category : <a href="investmentapproach.php" rel="category tag">Investment Approach</a>			</span> <!-- end .cat-links -->
 						<a class="more-link" title="Real Estate Fund" href="realestate.php">
 			Read More</a>
 					</footer> <!-- .entry-meta -->

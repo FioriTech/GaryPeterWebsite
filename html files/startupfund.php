@@ -60,8 +60,8 @@ Gary Peter Group invites applications from all entrepreneurs.</p>
 											</footer> <!-- .entry-meta -->
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
-			<li class="previous"> <a href="investmentstrategy1.php" rel="prev"><span class="meta-nav">&larr;</span> Investment Strategy</a> </li>
-			<li class="next"> <a href="realestate.php" rel="next">Real Estate Fund <span class="meta-nav">&rarr;</span></a> </li>
+			<li class="previous"> <a href="realestate.php" rel="prev"><span class="meta-nav">&larr;</span> Real Estate Fund</a> </li>
+			<li class="next"> <a href="investmentstrategy1.php" rel="next">Investment Strategy <span class="meta-nav">&rarr;</span></a> </li>
 		</ul>
 			
 <div id="comments" class="comments-area">

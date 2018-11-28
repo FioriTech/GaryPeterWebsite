@@ -53,7 +53,8 @@ We really appreciate the dedication and commitment of our team. Our sincere than
 											</footer> <!-- .entry-meta -->
 		</main> <!-- #main -->
 			<ul class="default-wp-page clearfix">
-			<li class="previous"> <a href="ourphilosophy.php" rel="next">&larr;Our Philosophy <span class="meta-nav"></span></a> </li>
+			<li class="previous">  </li>
+			<li class="next"> <a href="ourphilosophy.php" rel="next">Our Philosophy <span class="meta-nav">&rarr;</span></a> </li>
 		</ul>
 			
 <div id="comments" class="comments-area">
