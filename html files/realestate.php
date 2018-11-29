@@ -64,7 +64,7 @@
         <!-- end #content -->
     </div> <!-- end #page -->
     <?php include 'common files/footer.php' ?>
-    <script>
+	<script>
         jQuery(document).ready(function() {
             jQuery.post('http://garypeter.com?ga_action=googleanalytics_get_script', {
                 action: 'googleanalytics_get_script'
@@ -94,6 +94,7 @@
     <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/navigation.js?ver=4.9.3'></script>
     <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/freesiaempire-quote-slider.js?ver=4.2.2'></script>
     <script type='text/javascript' src='http://garypeter.com/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+    
 </body>
 
 </html>

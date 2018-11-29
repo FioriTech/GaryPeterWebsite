@@ -51,7 +51,7 @@
                             <div style="clear:both;"></div>
 
                             <div id="FSContact1" style="width:99%; max-width:555px;">
-                                <form action="http://garypeter.com/contact-us/#FSContact1" id="fscf_form1" method="post">
+                                <form action="backend/contactdetail.php" id="fscf_form1" method="post">
 
                                     <div id="fscf_div_clear1_0" style="clear:both;">
                                         <div id="fscf_div_field1_0" style="clear:left; float:left; width:99%; max-width:550px; margin-right:10px;">
@@ -117,7 +117,7 @@
                                     </div>
 
                                     <div id="fscf_submit_div1" style="text-align:left; clear:both; padding-top:15px;">
-                                        <input type="submit" id="fscf_submit1" style="cursor:pointer; margin:0;width:134px" value="Submit" onclick="this.disabled=true; this.value='Submitting...'; this.form.submit();" />
+                                        <input type="submit" id="fscf_submit1" style="cursor:pointer; margin:0;width:134px" value="Submit" name="submit" />
                                     </div>
 
                                     <input type="hidden" name="fscf_submitted" value="0" />

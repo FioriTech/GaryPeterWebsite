@@ -57,7 +57,7 @@
     </div> <!-- end #page -->
     <div class="clear"></div>
     <?php include 'common files/footer.php' ?>
-    <script>
+   <script>
         jQuery(document).ready(function() {
             jQuery.post('http://garypeter.com?ga_action=googleanalytics_get_script', {
                 action: 'googleanalytics_get_script'

