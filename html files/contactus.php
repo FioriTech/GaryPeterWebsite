@@ -134,15 +134,11 @@
 
                         </div>
                     </div> <!-- entry-content clearfix-->
-
-                    <div id="comments" class="comments-area">
-                    </div> <!-- .comments-area -->
                 </div> <!-- #main -->
             </div>
             <!-- end .container -->
         </div>
         <!-- end #content -->
-        <!-- Footer Start ============================================= -->
     </div> <!-- end #page -->
     <?php include 'common files/footer.php' ?>
     

