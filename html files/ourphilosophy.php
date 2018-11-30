@@ -36,7 +36,7 @@
                         <p>&nbsp;</p>
                         <h6>What inspires us to keep moving?</h6>
                         <p>Gary Peter Group consisting of highly motivated and talented individuals draws inspiration from everything. We get inspired by nature, animals and even with individuals possessing never say give-up attitude.</p>
-                        <p><img class="size-medium wp-image-104 alignright" src="../images/philosophy.jpg" alt="canstockphoto4779764_Hands" width="350" height="350" sizes="(max-width: 350px) 100vw, 350px" /></p>
+                        <p><img class="size-medium wp-image-104 alignright" src="../images/philosophy.jpg" alt="canstockphoto4779764_Hands" width="350" height="350" srcset="../images/philosophy.jpg 300w, ../images/philosophy.jpg 150w, ../images/philosophy.jpg 768w, ../images/philosophy.jpg 1024w, ../images/philosophy.jpg 1600w" sizes="(max-width: 350px) 100vw, 350px" /></p>
                         <p>We believe no work is impossible for a human if they have enough determination and will to achieve it.</p>
                         <h6></h6>
                         <h6>Some quotes which keep us moving:</h6>
@@ -61,7 +61,7 @@
                         <p>Our humanitarian approach has always believed in giving maximum benefits to these children and adults. We continuously strive to help these people reach a stage where they can seamlessly integrate into mainstream society and business world.</p>
                         <p>We whole-heartedly support organizations whose vision resembles our focus.</p>
                         <p>The doors of Gary Peter Group are always open for those who need assistance. We will be happy to help you in all possible ways.<br />
-                            <a href="contactus.php"><img class="aligncenter wp-image-350" src="../images/contactus.jpg" alt="canstockphoto9708130" width="501" height="269" sizes="(max-width: 501px) 100vw, 501px" /></a></p>
+                            <a href="contactus.php"><img class="aligncenter wp-image-350" src="../images/contactus.jpg" alt="canstockphoto9708130" width="501" height="269" srcset="../images/contactus.jpg 300w, ../images/contactus.jpg 768w, ../images/contactus.jpg 1024w, ../images/contactus.jpg 1600w" sizes="(max-width: 501px) 100vw, 501px" /></a></p>
                     </div> <!-- .end entry-content -->
                     <footer class="entry-footer"> <span class="cat-links">
                             Category : <a href="humanitarianwork.php" rel="category tag">Humanitarian Work</a> </span> <!-- .cat-links -->

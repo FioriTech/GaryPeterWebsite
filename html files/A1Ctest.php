@@ -32,7 +32,7 @@
                     <div class="entry-content">
                         <p>On November 14, 2015 &#8216;Plainsboro, North and South Brunswick Rotary club&#8217; rolled out a<br />
                             great community service project <strong>‘Free A1C Now test – Health Campaign’</strong> in collaboration with Gary Peter Group.<br />
-                            <img class="wp-image-347 aligncenter" src="../images/A1C_Banner.jpg" alt="A1C Banner" width="500" height="280"  sizes="(max-width: 500px) 100vw, 500px" /></p>
+                            <img class="wp-image-347 aligncenter" src="../images/A1C_Banner.jpg" alt="A1C Banner" width="500" height="280" srcset="../images/A1C_Banner.jpg 300w, ../images/A1C_Banner.jpg 768w, ../images/A1C_Banner.jpg 1024w, ../images/A1C_Banner.jpg 1280w"  sizes="(max-width: 500px) 100vw, 500px" /></p>
                         <p>&nbsp;</p>
                         <p>This event has been one of our most enjoyable and valuable service project. Together we served remarkably, more than 110 people from 9 AM – 3 PM with their A1C reading and educated them about how best they can keep control the blood sugar level in future. The event was very well received by all, as the actual event was scheduled till 1 PM, due to overwhelming response the entire team patiently kept serving the people till 3 PM.<br />
                             <br />
