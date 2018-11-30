@@ -13,7 +13,10 @@
 
 <body class="home page-template-default page page-id-140 custom-background no-sidebar-layout small_image_blog  boxed-layout">
     <div class="image">
-        <?php include 'common files/menu.php' ?>
+        <div>
+	   <a href="../index.php"><img class="logo" src="../images/logo.png"></a>
+       <?php include 'common files/menu.php' ?>
+	</div>
         <div class="strategy">
             <p class="invstrategy"><b>Startup Fund</b></p>
         </div>

@@ -14,7 +14,10 @@
 <body class="page-template-default page page-id-33 custom-background no-sidebar-layout small_image_blog  boxed-layout">
 
     <div class="image">
-        <?php include 'common files/menu.php' ?>
+        <div>
+	   <a href="../index.php"><img class="logo" src="../images/logo.png"></a>
+       <?php include 'common files/menu.php' ?>
+	</div>
         <div class="strategy">
             <p class="invstrategy"><b>Our Philosophy</b></p>
         </div>
