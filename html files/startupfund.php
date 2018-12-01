@@ -13,7 +13,10 @@
 
 <body class="home page-template-default page page-id-140 custom-background no-sidebar-layout small_image_blog  boxed-layout">
     <div class="image">
-        <?php include 'common files/menu.php' ?>
+        <div>
+	   <a href="../index.php"><img class="logo" src="../images/logo.png"></a>
+       <?php include 'common files/menu.php' ?>
+	</div>
         <div class="strategy">
             <p class="invstrategy"><b>Startup Fund</b></p>
         </div>
@@ -44,7 +47,7 @@
                             <br />
                             Gary Peter Group invites applications from all entrepreneurs.</p>
                         <h6><a href="contactus.php">Send us </a>your details and we will get in touch with you shortly!</h6>
-                        <p><a href="contactus.php"><img class="wp-image-350 aligncenter" src="http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130-300x161.jpg" alt="New Information Technology" width="500" height="268" srcset="http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130-300x161.jpg 300w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130-768x412.jpg 768w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130-1024x550.jpg 1024w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130.jpg 1600w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+                        <p><a href="contactus.php"><img class="wp-image-350 aligncenter" src="../images/contactus.jpg" alt="New Information Technology" width="500" height="268" srcset="../images/contactus.jpg 300w, ../images/contactus.jpg 768w, ../images/contactus.jpg 1024w, ../images/contactus.jpg 1600w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
                     </div> <!-- .end entry-content -->
                     <footer class="entry-footer"> <span class="cat-links">
                             Category : <a href="investmentapproach.php" rel="category tag">Investment Approach</a> </span> <!-- .cat-links -->

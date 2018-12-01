@@ -14,7 +14,10 @@
 <body class="page-template-default page page-id-33 custom-background no-sidebar-layout small_image_blog  boxed-layout">
 
     <div class="image">
-        <?php include 'common files/menu.php' ?>
+        <div>
+	   <a href="../index.php"><img class="logo" src="../images/logo.png"></a>
+       <?php include 'common files/menu.php' ?>
+	</div>
         <div class="strategy">
             <p class="invstrategy"><b>Our Philosophy</b></p>
         </div>
@@ -36,7 +39,7 @@
                         <p>&nbsp;</p>
                         <h6>What inspires us to keep moving?</h6>
                         <p>Gary Peter Group consisting of highly motivated and talented individuals draws inspiration from everything. We get inspired by nature, animals and even with individuals possessing never say give-up attitude.</p>
-                        <p><img class="size-medium wp-image-104 alignright" src="http://garypeter.com/wp-content/uploads/2016/04/canstockphoto4779764_Hands-300x300.jpg" alt="canstockphoto4779764_Hands" width="350" height="350" srcset="http://garypeter.com/wp-content/uploads/2016/04/canstockphoto4779764_Hands-300x300.jpg 300w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto4779764_Hands-150x150.jpg 150w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto4779764_Hands-768x768.jpg 768w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto4779764_Hands-1024x1024.jpg 1024w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto4779764_Hands.jpg 1600w" sizes="(max-width: 350px) 100vw, 350px" /></p>
+                        <p><img class="size-medium wp-image-104 alignright" src="../images/philosophy.jpg" alt="canstockphoto4779764_Hands" width="350" height="350" srcset="../images/philosophy.jpg 300w, ../images/philosophy.jpg 150w, ../images/philosophy.jpg 768w, ../images/philosophy.jpg 1024w, ../images/philosophy.jpg 1600w" sizes="(max-width: 350px) 100vw, 350px" /></p>
                         <p>We believe no work is impossible for a human if they have enough determination and will to achieve it.</p>
                         <h6></h6>
                         <h6>Some quotes which keep us moving:</h6>
@@ -61,7 +64,7 @@
                         <p>Our humanitarian approach has always believed in giving maximum benefits to these children and adults. We continuously strive to help these people reach a stage where they can seamlessly integrate into mainstream society and business world.</p>
                         <p>We whole-heartedly support organizations whose vision resembles our focus.</p>
                         <p>The doors of Gary Peter Group are always open for those who need assistance. We will be happy to help you in all possible ways.<br />
-                            <a href="contactus.php"><img class="aligncenter wp-image-350" src="http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130-300x161.jpg" alt="canstockphoto9708130" width="501" height="269" srcset="http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130-300x161.jpg 300w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130-768x412.jpg 768w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130-1024x550.jpg 1024w, http://garypeter.com/wp-content/uploads/2016/04/canstockphoto9708130.jpg 1600w" sizes="(max-width: 501px) 100vw, 501px" /></a></p>
+                            <a href="contactus.php"><img class="aligncenter wp-image-350" src="../images/contactus.jpg" alt="canstockphoto9708130" width="501" height="269" srcset="../images/contactus.jpg 300w, ../images/contactus.jpg 768w, ../images/contactus.jpg 1024w, ../images/contactus.jpg 1600w" sizes="(max-width: 501px) 100vw, 501px" /></a></p>
                     </div> <!-- .end entry-content -->
                     <footer class="entry-footer"> <span class="cat-links">
                             Category : <a href="humanitarianwork.php" rel="category tag">Humanitarian Work</a> </span> <!-- .cat-links -->
