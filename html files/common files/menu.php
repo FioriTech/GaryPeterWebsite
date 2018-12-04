@@ -11,8 +11,11 @@
 </div>
 
 <script type="application/javascript">
-    var url = window.location.href.replace(/\/$/, '');
-    var parts = url.split('/').pop();
-    var lastSegment = parts.split(".")[0];
-    document.getElementById(lastSegment).classList.add("active");
+            var url = window.location.href.replace(/\/$/, '');
+            var parts = url.split('/').pop();
+            var lastSegment = parts.split(".")[0];
+            if (lastSegment === 'fioritech' || lastSegment === 'index') {
+                lastSegment = 'home';
+            }
+            document.getElementById(lastSegment).classList.add("active");
 </script>
