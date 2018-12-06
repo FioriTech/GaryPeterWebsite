@@ -87,11 +87,11 @@
                                 <div style="text-align:left; padding-top:5px;">
                                 </div>
                                 <div id="fscf_captcha_image_div1" style="width:175px; height:50px; padding-top:2px;">
-                                    <img id="fscf_captcha_image1" style="border-style:none; margin:0; padding:0px; padding-right:5px; float:left;" src="../images/securimage_show.png" width="132" height="45" alt="CAPTCHA" title="CAPTCHA" />
+                                    <img id="fscf_captcha_image1" style="border-style:none; margin:0; padding:0px; padding-right:5px; float:left;" src="http://garypeter.com/wp-content/plugins/si-contact-form/captcha/securimage_show.php?ctf_sm_captcha=1&amp;prefix=Gth167SN4pxfoxcM" width="132" height="45" alt="CAPTCHA" title="CAPTCHA" />
                                     <input id="fscf_captcha_prefix1" type="hidden" name="fscf_captcha_prefix1" required value="Gth167SN4pxfoxcM" />
                                     <div id="fscf_captcha_refresh1">
-                                        <a href="#" rel="nofollow" title="Refresh" onclick="fscf_captcha_refresh('1','../images','../images/securimage_show.php?ctf_sm_captcha=1&amp;prefix='); return false;">
-                                            <img src="../images/refresh.png" width="22" height="20" alt="Refresh" style="border-style:none; margin:0; padding:0px; vertical-align:bottom;" onclick="this.blur();" /></a>
+                                        <a href="#" rel="nofollow" title="Refresh" onclick="fscf_captcha_refresh('1','/wp-content/plugins/si-contact-form/captcha','http://garypeter.com/wp-content/plugins/si-contact-form/captcha/securimage_show.php?ctf_sm_captcha=1&amp;prefix='); return false;">
+                                            <img src="http://garypeter.com/wp-content/plugins/si-contact-form/captcha/images/refresh.png" width="22" height="20" alt="Refresh" style="border-style:none; margin:0; padding:0px; vertical-align:bottom;" onclick="this.blur();" /></a>
                                     </div>
                                 </div>
 
